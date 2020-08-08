@@ -1,6 +1,10 @@
 @import 'montserrat';
 
 $typography-font-family: 'Montserrat', '-apple-system', 'Helvetica Neue', Helvetica, Arial, sans-serif !default;
+$breakpoint-xs: 449px !default;
+$breakpoint-sm: 599px !default;
+$breakpoint-md: 1023px !default;
+$breakpoint-lg: 1919px !default;
 $primary   : #2bcbba;
 $secondary : #0fbcf9;
 $accent    : #575fcf;
