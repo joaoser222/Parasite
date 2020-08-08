@@ -1,9 +1,6 @@
-// Quasar SCSS (& Sass) Variables
-// --------------------------------------------------
-// To customize the look and feel of this app, you can override
-// the Sass/SCSS variables found in Quasar's source Sass/SCSS files.
+@import 'montserrat';
 
-// Check documentation for full list of Quasar variables
+$typography-font-family: 'Montserrat', '-apple-system', 'Helvetica Neue', Helvetica, Arial, sans-serif !default;
 
 // Your own variables (that are declared here) and Quasar's own
 // ones will be available out of the box in your .vue/.scss/.sass files
